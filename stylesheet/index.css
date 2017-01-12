@@ -1,5 +1,5 @@
 body{
-    background-image: url('../images/SFL.png');
+    background-image: url("../images/SFL.png");
     background-size: 55%;
     background-repeat: no-repeat;
     background-attachment: fixed;
